@@ -72,12 +72,6 @@ bool SetDelay::init()
 			audio->setBackgroundMusicVolume(bgmvol / 100.0f);
 			first = 0;
 		}
-		if (first) {
-			std::ostringstream ss;
-			ss << Time;
-			std::string s = ss.str();
-			labTime->setString(s);
-		}
 		}, "PlayMusic");
 
 
@@ -102,7 +96,7 @@ bool SetDelay::init()
 	track->headPic->setOpacity(track->opacity);
 	track->bodyPic2->setOpacity(track->opacity);
 	track->setAnchorPoint(Vec2(0.5f, 0));
-	track->setPosition(Vec2(visibleSize.width / 2 + origin.x + 600, 200));
+	track->setPosition(Vec2(visibleSize.width / 2 + origin.x + 600, 200 + origin.y));
 	track->setContentSize(Size(track->width, track->width * 5));
 	this->addChild(track, 1, "track");
 	
