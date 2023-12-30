@@ -1,0 +1,1 @@
+A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\tracbom.exe
