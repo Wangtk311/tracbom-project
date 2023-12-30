@@ -11,9 +11,16 @@
 
 **下载及启动方法**
 
+方法一：
+如果您只是想游玩，可以下载tracbom_relase,这是直接可以游玩的版本，双击文件夹下的tracbom.exe即可游玩。
+
+方法二：
+如果您想要完整的项目：
 该GitHub存储库所保存的是**Visual Studio 2022**项目。您可以使用VS克隆此存储库，或者直接下载库对应的zip后缀压缩包。无论如何，请您确保库文件保存在一个不含有**中文**等字符的路径下(最好是**纯英文字符和数字的组合**)。如果您选择**直接使用VS2022打开**，请在启动项目中选择**tracbom**项目，然后开始编译和执行。如果有提示工具集问题，请使用Visual Studio推荐的设置。如果您下载的是**zip压缩包**，请解压该压缩包，进入**tracbom\proj.win32**路径下，用VS装载**tracbom.sln**解决方案即可，之后的步骤与前一种方案相同。
+需要注意，我们修改过tracbom\cocos2d\cocos\audio\win32目录下的MciPlayer.cpp，MciPlayer.h和SimpleAudioEngine.cpp，请不要只复制Resources和classes以创建项目！
 
 当您已经编译过一次项目后，您就可以使用proj.win32目录下的Debug.win32或Release.win32中的可执行exe文件启动游戏，而无需使用VS。
+
 
 如果您是第一次接触tracbom，强烈推荐您在启动游戏后进入选歌页面时，按下**右上角的"?"按钮**了解玩法。
 
