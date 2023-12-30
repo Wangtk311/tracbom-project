@@ -1,0 +1,459 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2146,5): warning : The referenced project '..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj' does not exist.
+  About.cpp
+  AppDelegate.cpp
+  Howtoplay.cpp
+  LaunchPage.cpp
+  NoteHold.cpp
+  NoteTap.cpp
+  PlayScene.cpp
+  SelectAudio.cpp
+  SelectSong.cpp
+  SetdelayScene.cpp
+  Settlement.cpp
+  Track.cpp
+  main.cpp
+A:\apps\cocosPrj\tracbom\Classes\AppDelegate.cpp(57,17): warning C4305: “初始化”: 从“double”到“float”截断
+A:\apps\cocosPrj\tracbom\Classes\Settlement.cpp(408,53): warning C4305: “参数”: 从“double”到“float”截断
+A:\apps\cocosPrj\tracbom\Classes\Settlement.cpp(408,42): warning C4305: “参数”: 从“double”到“float”截断
+A:\apps\cocosPrj\tracbom\Classes\PlayScene.cpp(215,15): warning C4477: “sprintf”: 格式字符串“%07d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+    正在创建库 A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\tracbom.lib 和对象 A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\tracbom.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1653 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  tracbom.vcxproj -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\tracbom.exe
+  正在执行自定义生成步骤
+  A:\apps\cocosPrj\tracbom\Resources\delaysetting.ini -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\delaysetting.ini
+  A:\apps\cocosPrj\tracbom\Resources\keysettings.ini -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\keysettings.ini
+  A:\apps\cocosPrj\tracbom\Resources\musiclist.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musiclist.txt
+  A:\apps\cocosPrj\tracbom\Resources\note编写说明.docx -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\note编写说明.docx
+  A:\apps\cocosPrj\tracbom\Resources\soundsettings.ini -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\soundsettings.ini
+  A:\apps\cocosPrj\tracbom\Resources\Track编写说明.docx -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Track编写说明.docx
+  A:\apps\cocosPrj\tracbom\Resources\增删歌曲说明.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\增删歌曲说明.txt
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\about - Copy.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\about - Copy.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\about.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\about.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\aboutbeta.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\aboutbeta.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\Abouticons.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\Abouticons.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\betalogo.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\betalogo.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\diffselect.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\diffselect.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\highscore.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\highscore.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\howtoplay.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\howtoplay.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\howtoplaypic.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\howtoplaypic.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\LaunchPage.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\LaunchPage.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\musicmenu.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\musicmenu.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\musicname.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\musicname.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\musicpic.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\musicpic.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\NameAndAuthor.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\NameAndAuthor.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\SelectAudioBack - Copy.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\SelectAudioBack - Copy.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\SelectAudioBack.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\SelectAudioBack.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\SelectSong.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\SelectSong.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\SetAudio.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\SetAudio.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\settlement.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\settlement.png
+  A:\apps\cocosPrj\tracbom\Resources\backanddecos\start.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\backanddecos\start.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\aboutbutton.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\aboutbutton.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\aboutbuttonpressed.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\aboutbuttonpressed.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\audiobutton.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\audiobutton.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\audiobuttonpressed.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\audiobuttonpressed.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\emptybar.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\emptybar.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\exitbutton.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\exitbutton.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\exitbuttonpressed.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\exitbuttonpressed.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\ez.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\ez.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\ezprsd.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\ezprsd.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\hd.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\hd.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\hdprsd.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\hdprsd.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\in.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\in.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\inprsd.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\inprsd.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\keyset.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\keyset.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\keysetchanging.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\keysetchanging.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\keysetselected.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\keysetselected.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\music.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\music.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\musicpressed.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\musicpressed.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\nextbutton.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\nextbutton.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\playbutton.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\playbutton.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\playbuttonpressed.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\playbuttonpressed.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\selectedbar.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\selectedbar.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\slideblock.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\slideblock.png
+  A:\apps\cocosPrj\tracbom\Resources\buttonanddiv\slideblockselected.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\buttonanddiv\slideblockselected.png
+  A:\apps\cocosPrj\tracbom\Resources\fonts\arial.ttf -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\arial.ttf
+  A:\apps\cocosPrj\tracbom\Resources\fonts\com.otf -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\com.otf
+  A:\apps\cocosPrj\tracbom\Resources\fonts\combo.otf -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\combo.otf
+  A:\apps\cocosPrj\tracbom\Resources\fonts\Deng.ttf -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\Deng.ttf
+  A:\apps\cocosPrj\tracbom\Resources\fonts\Genshin.ttf -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\Genshin.ttf
+  A:\apps\cocosPrj\tracbom\Resources\fonts\Marker Felt.ttf -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\Marker Felt.ttf
+  A:\apps\cocosPrj\tracbom\Resources\fonts\msyh.ttc -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\msyh.ttc
+  A:\apps\cocosPrj\tracbom\Resources\fonts\score.otf -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\fonts\score.otf
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\AliVe.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\AliVe.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\AliVe.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\AliVe.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\AliVe.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\AliVe.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\AliVe\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\AliVe\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\chronomia.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\chronomia.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\chronomia.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\chronomia.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\chronomia.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\chronomia.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\chronomia\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\chronomia\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\Contrapasso.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\Contrapasso.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\Contrapasso.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\Contrapasso.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\Contrapasso.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\Contrapasso.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Contrapasso\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Contrapasso\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\Explorers.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\Explorers.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\Explorers.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\Explorers.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\Explorers.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\Explorers.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Explorers\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Explorers\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\How to be mine.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\How to be mine.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\How to be mine.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\How to be mine.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\How to be mine.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\How to be mine.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\IN\note2!!!!.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\IN\note2!!!!.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\How to be mine\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\How to be mine\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\loveit.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\loveit.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\loveit.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\loveit.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\loveit.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\loveit.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\loveit\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\loveit\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\Maelstrom.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\Maelstrom.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\Maelstrom.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\Maelstrom.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\Maelstrom.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\Maelstrom.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Maelstrom\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Maelstrom\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\mopemope.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\mopemope.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\mopemope.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\mopemope.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\mopemope.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\mopemope.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\mopemope\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\mopemope\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\Poseidon.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\Poseidon.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\Poseidon.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\Poseidon.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\Poseidon.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\Poseidon.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\IN\note2!!!!.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\IN\note2!!!!.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Poseidon\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Poseidon\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\rangfenggaosuni.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\rangfenggaosuni.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\rangfenggaosuni.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\rangfenggaosuni.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\rangfenggaosuni.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\rangfenggaosuni.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\rangfenggaosuni\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\rangfenggaosuni\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\Valkyrius0.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\Valkyrius0.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\Valkyrius0.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\Valkyrius0.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\Valkyrius0.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\Valkyrius0.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\IN\note2!!!!.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\IN\note2!!!!.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\IN\note3!!!!!!!!.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\IN\note3!!!!!!!!.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\Valkyrius0\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\Valkyrius0\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\wurenqu.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\wurenqu.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\wurenqu.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\wurenqu.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\wurenqu.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\wurenqu.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\wurenqu\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\wurenqu\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\xier.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\xier.mp3
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\xier.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\xier.png
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\xier.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\xier.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\EZ\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\EZ\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\EZ\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\EZ\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\EZ\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\EZ\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\EZ\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\EZ\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\EZ\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\EZ\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\HD\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\HD\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\HD\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\HD\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\HD\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\HD\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\HD\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\HD\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\HD\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\HD\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\IN\note.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\IN\note.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\IN\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\IN\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\IN\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\IN\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\IN\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\IN\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\Music\xier\IN\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\Music\xier\IN\track4.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\AliVe.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\AliVe.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\chronomia.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\chronomia.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\Contrapasso.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\Contrapasso.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\Explorers.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\Explorers.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\How to be mine.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\How to be mine.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\loveit.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\loveit.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\Maelstrom.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\Maelstrom.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\mopemope.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\mopemope.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\Poseidon.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\Poseidon.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\rangfenggaosuni.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\rangfenggaosuni.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\Valkyrius0.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\Valkyrius0.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\wurenqu.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\wurenqu.txt
+  A:\apps\cocosPrj\tracbom\Resources\musicscore\xier.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\musicscore\xier.txt
+  A:\apps\cocosPrj\tracbom\Resources\picture\1.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\1.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\2.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\2.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\3.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\3.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\back.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\back.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\background.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\background.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\background1.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\background1.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\backselected.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\backselected.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\continue.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\continue.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\continueselected.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\continueselected.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\line.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\line.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\pause.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\pause.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\progress.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\progress.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\retry.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\retry.png
+  A:\apps\cocosPrj\tracbom\Resources\picture\retryselected.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\picture\retryselected.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\a.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\a.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\b.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\b.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\c.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\c.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\f.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\f.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\m-backup.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\m-backup.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\m.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\m.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\s.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\s.png
+  A:\apps\cocosPrj\tracbom\Resources\ranking\v.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\ranking\v.png
+  A:\apps\cocosPrj\tracbom\Resources\res\.gitkeep -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\res\.gitkeep
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hold.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hold.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\holdTail.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\holdTail.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\tap.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\tap.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\test.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\test.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\track.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\track.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\track2.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\track2.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\track_head.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\track_head.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\0.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\0.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\1.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\1.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\10.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\10.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\11.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\11.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\12.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\12.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\13.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\13.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\14.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\14.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\15.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\15.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\16.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\16.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\17.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\17.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\18.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\18.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\19.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\19.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\2.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\2.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\20.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\20.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\21.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\21.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\22.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\22.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\23.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\23.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\24.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\24.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\25.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\25.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\26.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\26.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\27.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\27.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\28.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\28.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\29.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\29.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\3.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\3.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\30.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\30.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\31.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\31.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\32.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\32.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\33.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\33.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\34.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\34.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\35.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\35.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\36.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\36.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\37.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\37.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\38.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\38.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\39.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\39.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\4.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\4.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\40.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\40.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\41.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\41.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\42.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\42.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\43.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\43.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\44.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\44.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\45.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\45.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\46.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\46.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\47.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\47.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\48.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\48.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\49.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\49.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\5.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\5.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\50.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\50.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\51.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\51.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\52.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\52.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\53.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\53.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\54.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\54.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\55.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\55.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\56.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\56.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\57.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\57.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\58.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\58.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\59.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\59.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\6.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\6.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\60.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\60.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\61.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\61.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\62.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\62.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\63.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\63.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\7.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\7.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\8.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\8.png
+  A:\apps\cocosPrj\tracbom\Resources\skin\skin_name\hit\9.png -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\skin\skin_name\hit\9.png
+  A:\apps\cocosPrj\tracbom\Resources\sounds\buttontap.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\buttontap.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\error.wav -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\error.wav
+  A:\apps\cocosPrj\tracbom\Resources\sounds\exit.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\exit.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\launch.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\launch.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\Pick.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\Pick.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\selectsongbackgroundnew.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\selectsongbackgroundnew.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\selectsongbackgroundold.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\selectsongbackgroundold.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\setdelay.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\setdelay.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\setdelay2.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\setdelay2.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\setdelay3.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\setdelay3.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\setdelay4.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\setdelay4.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\settlement.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\settlement.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\Tap2.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\Tap2.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\Tap3.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\Tap3.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\Tap4.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\Tap4.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\Tap5.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\Tap5.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\Tap6.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\Tap6.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\Tap7.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\Tap7.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\tapEffect.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\tapEffect.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\tapEffect.wav -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\tapEffect.wav
+  A:\apps\cocosPrj\tracbom\Resources\sounds\tapEffect1.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\tapEffect1.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\tapEffect2.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\tapEffect2.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\tapEffect3.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\tapEffect3.mp3
+  A:\apps\cocosPrj\tracbom\Resources\sounds\tapEffect4.mp3 -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\sounds\tapEffect4.mp3
+  A:\apps\cocosPrj\tracbom\Resources\默认track\track1.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\默认track\track1.txt
+  A:\apps\cocosPrj\tracbom\Resources\默认track\track2.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\默认track\track2.txt
+  A:\apps\cocosPrj\tracbom\Resources\默认track\track3.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\默认track\track3.txt
+  A:\apps\cocosPrj\tracbom\Resources\默认track\track4.txt -> A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\默认track\track4.txt
+  复制了 433 个文件
