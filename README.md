@@ -65,16 +65,16 @@ tracbom的谱面是高度可扩展的。在tracbom/Resources路径下描述了�
 
 + **项目截图**
 
-![image](https://github.com/Wangtk311/tracbom-project/assets/115420227/6e5014bd-b8a6-4f27-8c8f-cebffd280483)
+<img width="425" alt="Untitled" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/ab645052-d497-48f9-81a5-2cf6478898cc">
 
-![image](https://github.com/Wangtk311/tracbom-project/assets/115420227/fbe4a9d6-07fb-4d56-b2f2-b53e1567a60f)
+<img width="425" alt="Untitled1" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/b0704396-06cd-4b40-a95d-120d4e44488c">
 
-![image](https://github.com/Wangtk311/tracbom-project/assets/115420227/2b7f41b4-dc13-42fc-9419-be276a4a1296)
+<img width="425" alt="Untitled2" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/db8595ad-6711-4221-b8de-672ccafc33ce">
 
-![image](https://github.com/Wangtk311/tracbom-project/assets/115420227/a135e76c-67c4-4396-b20f-76b56399a9a7)
+<img width="425" alt="Untitled3" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/5ff13e0b-9310-473a-9008-46d744884aec">
 
-![image](https://github.com/Wangtk311/tracbom-project/assets/115420227/d0a2e1f7-67cf-451f-a1ca-3d7896107010)
+<img width="425" alt="Untitled4" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/9d42154a-397c-4490-9336-2d9eda33d6eb">
 
-![image](https://github.com/Wangtk311/tracbom-project/assets/115420227/3488bec9-6b97-4285-8b1e-26cc3c8ef4d2)
+<img width="425" alt="Untitled5" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/cbec0999-2549-4e84-a938-5e321710c767">
 
 *适度游戏益脑，沉迷游戏伤身。*
