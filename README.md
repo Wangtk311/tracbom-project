@@ -2,10 +2,9 @@
 
 <img width="140" alt="game - Copy" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/650a7137-f708-4483-b82b-d90de6b9e824">
 
-------
-
 **基于 ©COCOS-2D X 游戏引擎开发**
 
+------
 
 **同济大学国豪书院-软件工程专业程序设计范式设计项目 By 吴忱 王天阔**
 
