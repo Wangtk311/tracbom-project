@@ -64,3 +64,6 @@ tracbom的谱面是高度可扩展的。在tracbom/Resources路径下描述了�
 该项目目前还处于实验阶段，有很多功能可能不稳定，敬请谅解。如果有改进，我们将在该README文件中添加改版说明，谢谢您的关注。
 
 *适度游戏益脑，沉迷游戏伤身。*
+
+![image](https://github.com/Wangtk311/tracbom-project/assets/115420227/6e5014bd-b8a6-4f27-8c8f-cebffd280483)
+
