@@ -1,4 +1,7 @@
 # Tracbom 音·迹  4键下落式音游项目
+
+![game - Copy](https://github.com/Wangtk311/tracbom-project/assets/115420227/1f5548c8-bdcd-4dbf-8208-5ca5335e616a)
+
 **基于 ©COCOS2D-X 游戏引擎开发**
 
 
