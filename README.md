@@ -65,15 +65,27 @@ tracbom的谱面是高度可扩展的。在tracbom/Resources路径下描述了�
 
 + **项目截图**
 
+选择歌曲
+
 <img width="825" alt="Untitled" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/ab645052-d497-48f9-81a5-2cf6478898cc">
+
+游戏页面
 
 <img width="825" alt="Untitled1" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/b0704396-06cd-4b40-a95d-120d4e44488c">
 
+属性设置
+
 <img width="825" alt="Untitled2" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/db8595ad-6711-4221-b8de-672ccafc33ce">
+
+延迟调整
 
 <img width="825" alt="Untitled3" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/5ff13e0b-9310-473a-9008-46d744884aec">
 
+分数结算
+
 <img width="825" alt="Untitled4" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/9d42154a-397c-4490-9336-2d9eda33d6eb">
+
+项目介绍
 
 <img width="825" alt="Untitled5" src="https://github.com/Wangtk311/tracbom-project/assets/115420227/cbec0999-2549-4e84-a938-5e321710c767">
 
