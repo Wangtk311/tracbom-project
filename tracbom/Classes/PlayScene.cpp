@@ -103,7 +103,7 @@ bool Play::init()
 	//audio->playBackgroundMusic(musicFilename.c_str());
 	//audio->setBackgroundMusicVolume(0.0f);
 
-
+	combo = 0;//连击数初始化
 	combonow = 0;//连击数初始化
 	Score = 0;//分数初始化
 	pNum = 0;//perfect数初始化
@@ -136,7 +136,7 @@ bool Play::init()
 	this->addChild(labTime, 1);*/
 	auto lab = Label::createWithTTF("Press ESC to pause", "fonts/Deng.ttf", 25);
 	lab->setAnchorPoint(Vec2(0, 1));
-	lab->setPosition(Vec2(25 + origin.x, visibleSize.height + origin.y - 40));
+	lab->setPosition(Vec2(20+origin.x, visibleSize.height + origin.y-40));
 	this->addChild(lab, 1);
 
 	/*schedule([labTime, audio, musicFilename](float dt)->void {
@@ -146,7 +146,7 @@ bool Play::init()
 		}	
 		}, "StopMusicforPre");*/
 	//播放音乐
-	schedule([audio, musicFilename](float dt)->void {		
+	schedule([ audio, musicFilename](float dt)->void {		
 		if (Time >= 0&& firstPlay) {
 			log("play");
 			audio->playBackgroundMusic(musicFilename.c_str());
@@ -184,28 +184,28 @@ bool Play::init()
 
 	auto track1 = Track::create("track1");
 	track1->setAnchorPoint(Vec2(0.5f, 0));
-	track1->setPosition(Vec2(visibleSize.width / 2 + origin.x - 600, 200));
+	track1->setPosition(Vec2(visibleSize.width / 2 + origin.x - 600, 200 + origin.y));
 	track1->setContentSize(Size(track1->width, track1->width * 5));
 	this->addChild(track1, 1, "track1");
 
 
 	auto track2 = Track::create("track2");
 	track2->setAnchorPoint(Vec2(0.5f, 0));
-	track2->setPosition(Vec2(visibleSize.width / 2 + origin.x - 200, 200));
+	track2->setPosition(Vec2(visibleSize.width / 2 + origin.x - 200, 200 + origin.y));
 	track2->setContentSize(Size(track2->width, track2->width * 5));
 	this->addChild(track2, 1, "track2");
 
 
 	auto track3 = Track::create("track3");
 	track3->setAnchorPoint(Vec2(0.5f, 0));
-	track3->setPosition(Vec2(visibleSize.width / 2 + origin.x + 200, 200));
+	track3->setPosition(Vec2(visibleSize.width / 2 + origin.x + 200, 200 + origin.y));
 	track3->setContentSize(Size(track3->width, track3->width * 5));
 	this->addChild(track3, 1, "track3");
 
 
 	auto track4 = Track::create("track4");
 	track4->setAnchorPoint(Vec2(0.5f, 0));
-	track4->setPosition(Vec2(visibleSize.width / 2 + origin.x + 600, 200));
+	track4->setPosition(Vec2(visibleSize.width / 2 + origin.x + 600, 200 + origin.y));
 	track4->setContentSize(Size(track4->width, track4->width * 5));
 	this->addChild(track4, 1, "track4");
 
@@ -216,7 +216,7 @@ bool Play::init()
 	//显示分数
 
 	char com[10];
-	sprintf(com, "%d", combo);
+	sprintf(com, "%d", combonow);
 	//显示combo
 
 	auto scoreLab = Label::createWithTTF(sco, "fonts/score.otf", 50);
@@ -590,10 +590,13 @@ bool Play::init()
 		bool isPlaying = SimpleAudioEngine::getInstance()->isBackgroundMusicPlaying();
 		if (!isPlaying&&Time>10&&!ifPause) {
 			
+			if (combonow > combo)
+				combo = combonow;
 			auto settlement = Settlement::createScene();
 			//渐入
 			auto transition = TransitionFade::create(1.0f, settlement);
 			Director::getInstance()->replaceScene(transition);
+			
 			
 			//auto settlement = Settlement::createScene();
 			//auto transition = TransitionFade::create(1.0f, settlement);
