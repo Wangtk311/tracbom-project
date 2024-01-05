@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\libcocos2d.dll</FullPath>
+      <FullPath>C:\tracbom\tracbom\proj.win32\Release.win32\libcocos2d.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>A:\apps\cocosPrj\tracbom\proj.win32\Release.win32\tracbom.exe</FullPath>
+      <FullPath>C:\tracbom\tracbom\proj.win32\Release.win32\tracbom.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
