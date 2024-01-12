@@ -233,7 +233,7 @@ bool Play::init()
 
 	schedule([scoreLab, comboLab](float dt)->void {
 		char sco[15];
-		if (Score >= 999999)
+		if (Score >= 999990)
 			Score = 1000000;
 		sprintf(sco, "%07d", int(Score));
 		scoreLab->setString(sco);
